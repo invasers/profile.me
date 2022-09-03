@@ -1,6 +1,6 @@
 **from GitHub import ReadMe**
 
-class Alpha(ReadMe):
+class Slock(ReadMe):
     "/brokenheart/me"
 
     def __init__(self):
